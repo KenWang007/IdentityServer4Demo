@@ -1,5 +1,5 @@
 # <font color=#0099ff size=12>IdentityServer4是什么？</font>
-IdentityServer4是基于ASP.NET Core实现的认证和授权框架，是对OpenID Connect和OAuth 2.0协议的实现。<font color=#0099ff size=12>IdentityServer4是什么？</font>
+IdentityServer4是基于ASP.NET Core实现的认证和授权框架，是对OpenID Connect和OAuth 2.0协议的实现。<font color=#0099ff size=12 face="黑体">IdentityServer4是什么？</font>
 # OpenID Connect 和 OAuth2.0是什么？
  ### OpenID Connect: 
    OpenID Connect由OpenID基金会于2014年发布的一个开放标准, 是建立在OAuth 2.0协议上的一个简单的身份标识层, OpenID Connect 兼容 OAuth 2.0. 实现身份认证（Authentication）    
