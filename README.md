@@ -55,7 +55,8 @@ OAuth2.0详细内容请参考：https://www.cnblogs.com/xiandnc/p/9763121.html
     IdentityServer4的许多方面可以定制以满足您的需要,因为它是一个框架，而不是SaaS服务    
     所以可以通过编写代码来调整实现，以适应不同的场景
 #### 成熟的开原方案
-    使用许可的Apache2开源协议，允许在其之上构建商业产品，也作为.NET基金会支持的项目
+    使用许可的Apache2开源协议，允许在其之上构建商业产品，也作为.NET基金会支持的项目    
+    https://dotnetfoundation.org/projects?type=project&ps=10&pn=6
 #### 提供免费的商业支持
     官方可以对使用者提供部分的免费商业支持
 
