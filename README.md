@@ -41,3 +41,21 @@ Authorization Server和Resource Server可以使独立的服务提供商，也可
 OAuth2.0详细内容请参考：https://www.cnblogs.com/xiandnc/p/9763121.html
 
 ![avatar](https://github.com/KenWang007/IdentityServer4Demo/blob/master/whoarewe.jpg)
+
+# IdentityServer4能做什么？
+![avatar](https://github.com/KenWang007/IdentityServer4Demo/blob/master/IdentityServer4Features.jpg)
+
+#### 用户认证服务
+    基于OpenID Connect实现的独立的认证服务实现对多平台（web, native, mobile, services）的集中认证
+#### API访问授权
+    为各种类型的客户机颁发api访问令牌，例如服务器到服务器、web应用程序、spa和native/mobile程序
+#### 联合身份认证
+    支持外部身份提供者，如Azure Active Directory、Google、Facebook等
+#### 定制化的实现
+    IdentityServer4的许多方面可以定制以满足您的需要,因为它是一个框架，而不是SaaS服务，所以可以通过编写代码来调整实现，以适应不同的场景
+#### 成熟的开原方案
+    使用许可的Apache2开源协议，允许在其之上构建商业产品，也作为.NET基金会支持的项目
+#### 提供免费的商业支持
+    官方可以对使用者提供部分的免费商业支持
+
+
