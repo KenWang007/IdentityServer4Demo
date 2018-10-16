@@ -64,15 +64,14 @@ OAuth2.0详细内容请参考：https://www.cnblogs.com/xiandnc/p/9763121.html
 ![avatar](https://github.com/KenWang007/IdentityServer4Demo/blob/master/IdentityServer4Flow.jpg)
 
 #### IdentityServer
-身份认证服务器是一个实现了OpenID Connect和OAuth 2.0协议的身份提供者，它负责向客户发布安全令牌    
-
-它的主要特性包括：
-    保护你的资源
-    使用本地帐户存储或通过外部身份提供者对用户进行身份验证
-    提供会话管理和单点登录
-    管理和认证客户
-    向客户颁发身份和访问令牌
-    验证令牌
+    身份认证服务器是一个实现了OpenID Connect和OAuth 2.0协议的身份提供者，它负责向客户发布安全令牌    
+    它的主要特性包括：    
+    保护你的资源    
+    使用本地帐户存储或通过外部身份提供者对用户进行身份验证    
+    提供会话管理和单点登录    
+    管理和认证客户    
+    向客户颁发身份和访问令牌    
+    验证令牌    
 
 
 
