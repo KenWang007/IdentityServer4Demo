@@ -1,0 +1,15 @@
+C:\OpenSourceProject\NETCore\IdentityServer4\IdentityServer4DemoCode\Api\Api\bin\Release\netcoreapp2.1\Api.deps.json
+C:\OpenSourceProject\NETCore\IdentityServer4\IdentityServer4DemoCode\Api\Api\bin\Release\netcoreapp2.1\Api.runtimeconfig.json
+C:\OpenSourceProject\NETCore\IdentityServer4\IdentityServer4DemoCode\Api\Api\bin\Release\netcoreapp2.1\Api.runtimeconfig.dev.json
+C:\OpenSourceProject\NETCore\IdentityServer4\IdentityServer4DemoCode\Api\Api\bin\Release\netcoreapp2.1\Api.dll
+C:\OpenSourceProject\NETCore\IdentityServer4\IdentityServer4DemoCode\Api\Api\bin\Release\netcoreapp2.1\Api.pdb
+C:\OpenSourceProject\NETCore\IdentityServer4\IdentityServer4DemoCode\Api\Api\obj\Release\netcoreapp2.1\Api.csprojAssemblyReference.cache
+C:\OpenSourceProject\NETCore\IdentityServer4\IdentityServer4DemoCode\Api\Api\obj\Release\netcoreapp2.1\Api.csproj.CoreCompileInputs.cache
+C:\OpenSourceProject\NETCore\IdentityServer4\IdentityServer4DemoCode\Api\Api\obj\Release\netcoreapp2.1\Api.RazorAssemblyInfo.cache
+C:\OpenSourceProject\NETCore\IdentityServer4\IdentityServer4DemoCode\Api\Api\obj\Release\netcoreapp2.1\Api.RazorAssemblyInfo.cs
+C:\OpenSourceProject\NETCore\IdentityServer4\IdentityServer4DemoCode\Api\Api\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\OpenSourceProject\NETCore\IdentityServer4\IdentityServer4DemoCode\Api\Api\obj\Release\netcoreapp2.1\Api.AssemblyInfoInputs.cache
+C:\OpenSourceProject\NETCore\IdentityServer4\IdentityServer4DemoCode\Api\Api\obj\Release\netcoreapp2.1\Api.AssemblyInfo.cs
+C:\OpenSourceProject\NETCore\IdentityServer4\IdentityServer4DemoCode\Api\Api\obj\Release\netcoreapp2.1\Api.RazorTargetAssemblyInfo.cache
+C:\OpenSourceProject\NETCore\IdentityServer4\IdentityServer4DemoCode\Api\Api\obj\Release\netcoreapp2.1\Api.dll
+C:\OpenSourceProject\NETCore\IdentityServer4\IdentityServer4DemoCode\Api\Api\obj\Release\netcoreapp2.1\Api.pdb
