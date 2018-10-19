@@ -1,0 +1,15 @@
+C:\OpenSourceProject\NETCore\IdentityServer4\IdentityServer4DemoCode\Inventory\Inventory\bin\Release\netcoreapp2.1\Inventory.deps.json
+C:\OpenSourceProject\NETCore\IdentityServer4\IdentityServer4DemoCode\Inventory\Inventory\bin\Release\netcoreapp2.1\Inventory.runtimeconfig.json
+C:\OpenSourceProject\NETCore\IdentityServer4\IdentityServer4DemoCode\Inventory\Inventory\bin\Release\netcoreapp2.1\Inventory.runtimeconfig.dev.json
+C:\OpenSourceProject\NETCore\IdentityServer4\IdentityServer4DemoCode\Inventory\Inventory\bin\Release\netcoreapp2.1\Inventory.dll
+C:\OpenSourceProject\NETCore\IdentityServer4\IdentityServer4DemoCode\Inventory\Inventory\bin\Release\netcoreapp2.1\Inventory.pdb
+C:\OpenSourceProject\NETCore\IdentityServer4\IdentityServer4DemoCode\Inventory\Inventory\obj\Release\netcoreapp2.1\Inventory.csprojAssemblyReference.cache
+C:\OpenSourceProject\NETCore\IdentityServer4\IdentityServer4DemoCode\Inventory\Inventory\obj\Release\netcoreapp2.1\Inventory.csproj.CoreCompileInputs.cache
+C:\OpenSourceProject\NETCore\IdentityServer4\IdentityServer4DemoCode\Inventory\Inventory\obj\Release\netcoreapp2.1\Inventory.RazorAssemblyInfo.cache
+C:\OpenSourceProject\NETCore\IdentityServer4\IdentityServer4DemoCode\Inventory\Inventory\obj\Release\netcoreapp2.1\Inventory.RazorAssemblyInfo.cs
+C:\OpenSourceProject\NETCore\IdentityServer4\IdentityServer4DemoCode\Inventory\Inventory\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\OpenSourceProject\NETCore\IdentityServer4\IdentityServer4DemoCode\Inventory\Inventory\obj\Release\netcoreapp2.1\Inventory.AssemblyInfoInputs.cache
+C:\OpenSourceProject\NETCore\IdentityServer4\IdentityServer4DemoCode\Inventory\Inventory\obj\Release\netcoreapp2.1\Inventory.AssemblyInfo.cs
+C:\OpenSourceProject\NETCore\IdentityServer4\IdentityServer4DemoCode\Inventory\Inventory\obj\Release\netcoreapp2.1\Inventory.RazorTargetAssemblyInfo.cache
+C:\OpenSourceProject\NETCore\IdentityServer4\IdentityServer4DemoCode\Inventory\Inventory\obj\Release\netcoreapp2.1\Inventory.dll
+C:\OpenSourceProject\NETCore\IdentityServer4\IdentityServer4DemoCode\Inventory\Inventory\obj\Release\netcoreapp2.1\Inventory.pdb
