@@ -1,30 +1,34 @@
 * [1.IdentityServer4是什么？](#whatisid4)
-* [2.OpenID Connect 和 OAuth2.0是什么？](#2)
-
-[Go to span1](#span1)
+* [2.OpenID Connect 和 OAuth2.0是什么](#whatisoauth2)
+* [2.1OpenID Connect 和 OAuth2.0是什么](#whatisopenid)
+* [2.2OpenID Connect 和 OAuth2.0是什么](#whatisoauth20)
+* [3.Authentication 和 Authorization的区别](#difference)
+* [4.OAuth2.0的原理](#whyoauth)
+* [5.IdentityServer4能做什么](#howid4)
+* [6.IdentityServer4定义的基本术语](#id4define)
+* [7.IdentityServer4的简单示例](#id4simpleimp)
+* [8.IdentityServer4结合Ocelot实现网关认证和授权](#id4withocelot)
 
 # <span id="whatisid4"> IdentityServer4是什么？</span>
 IdentityServer4是基于ASP.NET Core实现的认证和授权框架，是对OpenID Connect和OAuth 2.0协议的实现。
-
-<span id="span1">span1</span>
  
-# OpenID Connect 和 OAuth2.0是什么？
- ### OpenID Connect: 
+# <span id="whatisoauth2"> OpenID Connect 和 OAuth2.0是什么？</span>
+ ### <span id="whatisopenid"> OpenID Connect</span>: 
    OpenID Connect由OpenID基金会于2014年发布的一个开放标准, 是建立在OAuth 2.0协议上的一个简单的身份标识层, OpenID Connect 兼容 OAuth 2.0. 实现身份认证（Authentication）    
    参考资料：https://openid.net/connect/    
    OpenID Connect文档：https://openid.net/specs/openid-connect-discovery-1_0.html 
- ### OAuth2.0:  
+ ### <span id="whatisoauth20"> OAuth2.0</span>:  
    OAuth2.0是一个开放的工业标准的授权协议（Authorization），它允许用户授权让第三方应用直接访问用户在某一个服务中的特定资源，但不提供给第三方账号及密码信息    
    参考资料：https://www.cnblogs.com/xiandnc/p/9763121.html    
    OAuth2.0 文档：https://tools.ietf.org/html/rfc6749#page-73
-# Authentication 和 Authorization的区别？
+# <span id="difference"> Authentication 和 Authorization的区别？</span>
     authentication: n. 证明；鉴定；证实
     authorization: n. 授权，认可；批准，委任
     
 前者是身份识别，鉴别你是谁；后者是授权许可，告诉你可以做什么。        
 举个例子：你吭哧吭哧写了一天的代码，急于回家吃上一口媳妇做的热饭。当你走到小区门口的时候你需要刷小区的门禁卡才能进入到小区里面，然后再找到你家在哪一栋楼，几单元几号，然后掏出钥匙开门才能回到家。在这个过程中刷小区的门禁就是认证你是这个小区的人，拿你家的钥匙开门就是授权的过程，如果你的认证不通过，那就不存在授权。
 
-# OAuth2.0的原理
+# <span id="whyoauth">  OAuth2.0的原理</span>
 我们先来了解一下OAuth2.0中的几个关键概念：
 
 #### 资源所有者（Resource Owner）：
@@ -51,7 +55,7 @@ OAuth2.0详细内容请参考：https://www.cnblogs.com/xiandnc/p/9763121.html
 
 ![avatar](https://github.com/KenWang007/IdentityServer4Demo/blob/master/whoarewe.jpg)
 
-# IdentityServer4能做什么？
+# <span id="howid4"> IdentityServer4能做什么？</span>
 ![avatar](https://github.com/KenWang007/IdentityServer4Demo/blob/master/IdentityServer4Features.jpg)
 
 #### 用户认证服务
@@ -69,7 +73,7 @@ OAuth2.0详细内容请参考：https://www.cnblogs.com/xiandnc/p/9763121.html
 #### 提供免费的商业支持
     官方可以对使用者提供部分的免费商业支持
 
-# IdentityServer4定义的基本术语
+# <span id="id4define"> IdentityServer4定义的基本术语 </span>
 ![avatar](https://github.com/KenWang007/IdentityServer4Demo/blob/master/IdentityServer4Flow.jpg)
 
 #### IdentityServer
@@ -89,7 +93,9 @@ OAuth2.0详细内容请参考：https://www.cnblogs.com/xiandnc/p/9763121.html
 #### Access Token
     访问令牌授权客户端以允许访问哪些API资源，访问令牌包含客户端和用户的信息
 
+# <span id="id4define"> IdentityServer4的简单示例 </span>
 
+# <span id="id4define"> IdentityServer4结合Ocelot实现网关认证和授权 </span>
 
 
 
