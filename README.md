@@ -4,7 +4,7 @@
 * [4.OAuth2.0的原理](#whyoauth)
 * [5.IdentityServer4能做什么](#howid4)
 * [6.IdentityServer4定义的基本术语](#id4define)
-* [7.IdentityServer4的简单示例](#id4simpleimp)
+* [7.IdentityServer4的简单示例](#id4simpledemo)
 * [8.IdentityServer4结合Ocelot实现网关认证和授权](#id4withocelot)
 
 # <span id="whatisid4"> IdentityServer4是什么？</span>
@@ -91,9 +91,11 @@ OAuth2.0详细内容请参考：https://www.cnblogs.com/xiandnc/p/9763121.html
 #### Access Token
     访问令牌授权客户端以允许访问哪些API资源，访问令牌包含客户端和用户的信息
 
-# <span id="id4define"> IdentityServer4的简单示例 </span>
+# <span id="id4simpledemo"> IdentityServer4的简单示例 </span>
+https://github.com/KenWang007/IdentityServer4Demo 
 
-# <span id="id4define"> IdentityServer4结合Ocelot实现网关认证和授权 </span>
+# <span id="id4withocelot"> IdentityServer4结合Ocelot实现网关认证和授权 </span>
+https://github.com/KenWang007/OcelotDemo
 
-
+https://github.com/KenWang007/OcelotDemo/tree/master/ApiGateWayWithIdentityServer4
 
