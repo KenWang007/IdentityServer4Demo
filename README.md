@@ -36,7 +36,7 @@ IdentityServer4是基于ASP.NET Core实现的认证和授权框架，是对OpenI
 
 场景：小李想要打印（美图快印）自己三年来发布在新浪微博相册中和女朋友的照片，有没有什么方法他既不告诉工作人员自己的新浪微博用账号和密码又能够方便快捷的把照片给到美图快印呢？（排除存U盘这种手工操作）
 
-![avatar](https://img2018.cnblogs.com/blog/1413706/201810/1413706-20181009223131701-1576956298.jpg)
+![avatar](OAuth2.0.jpg)
 
 Authorization Server和Resource Server可以使独立的服务提供商，也可以是在一起的，比如例子中新浪微博既作授权服务器也用来存储用户的图片资源。我们可以看到OAuth2解决的问题是：通过Authorization Server可以提供一个访问的凭据（token）给client（美图快印的工作人员），使得client可以在不知道Resource Owner以及Resource Server的用户名和密码的情况下访问到Resource Owner受保护的资源，它是一个完美的中间人。　　
 
